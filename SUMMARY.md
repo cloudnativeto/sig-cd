@@ -1,4 +1,4 @@
 # Table of contents
 
-* [sig-cd](README.md)
+* [欢迎加入持续交付 SIG](README.md)
 
