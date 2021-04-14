@@ -8,7 +8,7 @@
 
 ![](.gitbook/assets/cd-sig.png)
 
-云原生社区持续交付 SIG 关注但不仅限于上述工具。关于持续交付更多的信息，可以查看持续交付 SIG 的官方网址： **https://i.cloudnative.to/sig-cd** 。
+云原生社区持续交付 SIG 关注但不仅限于上述工具。关于持续交付更多的信息，可以查看持续交付 SIG 的官方网址： <https://i.cloudnative.to/cd/>。
 
 ## 持续交付 SIG 发起人
 
@@ -22,9 +22,6 @@
 * 为了保障 SIG 微信群的质量，入群需要在申请表中实名登记。扫描下面的二维码加入云原生社区持续交付 SIG，了解更多持续交付实践案例，并与专家、爱好者们共同交流。
 
  <img src=".gitbook/assets/qrcode-1-.png" width="200" height="200" align=center />
-
-* 添加微信 `jimmysongio` 添加备注 **sig cd 加群**。
-
 
 
 
