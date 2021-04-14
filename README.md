@@ -21,7 +21,7 @@
 
 * 为了保障 SIG 微信群的质量，入群需要在申请表中实名登记。扫描下面的二维码加入云原生社区持续交付 SIG，了解更多持续交付实践案例，并与专家、爱好者们共同交流。
 
-![](.gitbook/assets/qrcode-1-.png)
+ <img src=".gitbook/assets/qrcode-1-.png" width="200" height="200" align=center />
 
 * 添加微信 `jimmysongio` 添加备注 **sig cd 加群**。
 
